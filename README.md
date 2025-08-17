@@ -66,6 +66,6 @@ The raw dataset includes the following columns (as seen in your PDF/excel snapsh
 
 - Built with **Microsoft Excel**.
 - Demonstrates capabilities in data analysis, visualization, business intelligence workflows, and dashboard design.
-- For suggestions, collaboration, or questions, feel free to reach out at: **LinkedIn[www.linkedin.com/in/kapil-saran-5772j48]**
+- For suggestions, collaboration, or questions, feel free to reach out at: **[LinkedIn](www.linkedin.com/in/kapil-saran-5772j48)**
 
 ---
