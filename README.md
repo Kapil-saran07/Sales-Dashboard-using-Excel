@@ -2,6 +2,9 @@
 
 A dynamic, interactive sales dashboard built in Microsoft Excel for analyzing and visualizing key business metrics—designed for clarity, insights, and actionable decision-making.
 
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-success?logo=microsoft-excel)
+
 ##  Overview
 
 This project brings a complete Excel-based solution for analyzing sales performance across categories, regions, and customers. By leveraging powerful Excel features like PivotTables, charts, slicers, and structured layout, the dashboard provides rich insights through intuitive visualizations.
